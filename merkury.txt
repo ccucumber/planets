@@ -1,1 +1,4 @@
 Taka mała planeta, która bardzo szybko się porusza.
+
+aaa
+>>>>>>> 9e23ae69f24474fcacbf0ed1effee31ac57dde1f
