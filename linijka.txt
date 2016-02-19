@@ -5,3 +5,6 @@ to jest linijka 5
 to jest linijka 6
 to jest linijka 9
 to jest linijka 10
+
+
+A to linijka ekstra.
