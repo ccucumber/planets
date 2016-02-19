@@ -1,1 +1,2 @@
-Mars jest czerwoną planetą.
+Mars jest zieloną planetą.
+Zielony kolor to ja lubię!
